@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\Documents\\GitHub\\Shop\\Book\\Book\\Book.csproj": {}
+    "C:\\Users\\Asus\\Documents\\GitHub\\Shop\\Book\\Book\\Shop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\Documents\\GitHub\\Shop\\Book\\Book\\Book.csproj": {
+    "C:\\Users\\Asus\\Documents\\GitHub\\Shop\\Book\\Book\\Shop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\Documents\\GitHub\\Shop\\Book\\Book\\Book.csproj",
-        "projectName": "Book",
-        "projectPath": "C:\\Users\\Asus\\Documents\\GitHub\\Shop\\Book\\Book\\Book.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Documents\\GitHub\\Shop\\Book\\Book\\Shop.csproj",
+        "projectName": "Shop",
+        "projectPath": "C:\\Users\\Asus\\Documents\\GitHub\\Shop\\Book\\Book\\Shop.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Asus\\Documents\\GitHub\\Shop\\Book\\Book\\obj\\",
         "projectStyle": "PackageReference",
